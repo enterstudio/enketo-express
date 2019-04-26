@@ -1,0 +1,42 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.3
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - enketo-transformer > express > debug:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > router > debug:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > send > debug:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > serve-static > send > debug:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > finalhandler > debug:
+        patched: '2019-04-26T04:06:54.735Z'
+  'npm:mime:20170907':
+    - enketo-transformer > express > send > mime:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > serve-static > send > mime:
+        patched: '2019-04-26T04:06:54.735Z'
+  'npm:ms:20170412':
+    - enketo-transformer > express > debug > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > send > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > finalhandler > debug > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > router > debug > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > send > debug > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > serve-static > send > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+    - enketo-transformer > express > serve-static > send > debug > ms:
+        patched: '2019-04-26T04:06:54.735Z'
+  'npm:negotiator:20160616':
+    - enketo-transformer > express > accepts > negotiator:
+        patched: '2019-04-26T04:06:54.735Z'
+  'npm:uglify-js:20151024':
+    - jade > transformers > uglify-js:
+        patched: '2019-04-26T04:06:54.735Z'
