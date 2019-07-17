@@ -33,7 +33,7 @@
         "grunt": "0.4.x",
         "grunt-browserify": "4.0.x",
         "grunt-contrib-uglify": "0.11.x",
-        "grunt-env": "0.4.x",
+        "grunt-env": "1.0.0",
         "grunt-sass": "1.1.x",
         "i18next": "1.10.x",
         "i18next-client": "1.11.x",
