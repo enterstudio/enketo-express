@@ -31,7 +31,7 @@
         "enketo-transformer": "1.7.3",
         "express": "4.x.x",
         "grunt": "0.4.x",
-        "grunt-browserify": "4.0.x",
+        "grunt-browserify": "5.3.0",
         "grunt-contrib-uglify": "0.11.x",
         "grunt-env": "0.4.x",
         "grunt-sass": "1.1.x",
