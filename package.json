@@ -48,7 +48,7 @@
         "morgan": "1.x.x",
         "papaparse": "4.1.x",
         "redis": "2.4.x",
-        "request": "2.67.x",
+        "request": "2.76.0",
         "serve-favicon": "2.x.x",
         "time-grunt": "1.x.x",
         "vex-js": "2.3.x",
