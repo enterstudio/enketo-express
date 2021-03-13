@@ -30,7 +30,7 @@
         "enketo-core": "4.5.2",
         "enketo-transformer": "1.7.3",
         "express": "4.x.x",
-        "grunt": "0.4.x",
+        "grunt": "1.0.0",
         "grunt-browserify": "4.0.x",
         "grunt-contrib-uglify": "0.11.x",
         "grunt-env": "0.4.x",
