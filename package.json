@@ -32,7 +32,7 @@
         "express": "4.x.x",
         "grunt": "0.4.x",
         "grunt-browserify": "4.0.x",
-        "grunt-contrib-uglify": "0.11.x",
+        "grunt-contrib-uglify": "4.0.1",
         "grunt-env": "0.4.x",
         "grunt-sass": "1.1.x",
         "i18next": "1.10.x",
